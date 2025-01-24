@@ -50,7 +50,7 @@ public class LibraryGui {
         panel.getActionMap().put("showAboutMessage", new AbstractAction() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(panel, "Aplicação de Biblioteca - Versão 1.0\nCriado por: \nCarlos Dias\nJosé Rua\nJoão Gonçalo Antunes", "Acerca", JOptionPane.INFORMATION_MESSAGE);
+                JOptionPane.showMessageDialog(panel, "Aplicação de Biblioteca - Versão 1.0\nCriado por: \nCarlos Dias\nCarlos Vieira\nJoão Gonçalo Antunes", "Acerca", JOptionPane.INFORMATION_MESSAGE);
             }
         });
 
